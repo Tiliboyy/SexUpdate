@@ -5,7 +5,7 @@ Boobs
 
 Best Configs:
 
-Sex:\n
+Sex:
   is_enabled: true
   debug: false
   off_set:
