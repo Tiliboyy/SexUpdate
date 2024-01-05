@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "j01cDZSXgMxIAmFkFYcysBWl/517G6Lqf8O8YfaYvtiYjRWDlg//nsEHCxTqxLVFUABElnvgYRm4q+pxnfmCQw==",
+  "dgSpecHash": "Mbpu2Hf6Nr69aTnDzXjS+PH48yv0riFjbLVrd+3a6XfAJGJpsLDgh3eX2VxVP8uJCD4jWmZav8CEuajiIaZx4w==",
   "success": true,
   "projectFilePath": "C:\\Users\\tilau\\RiderProjects\\SexUpdate\\SexUpdate\\SexUpdate.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\tilau\\.nuget\\packages\\exiled\\7.0.0-rc.3-1\\exiled.7.0.0-rc.3-1.nupkg.sha512"
+    "C:\\Users\\tilau\\.nuget\\packages\\exiled\\8.6.0\\exiled.8.6.0.nupkg.sha512"
   ],
   "logs": []
 }

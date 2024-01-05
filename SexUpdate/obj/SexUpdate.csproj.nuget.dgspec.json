@@ -40,7 +40,7 @@
           "dependencies": {
             "EXILED": {
               "target": "Package",
-              "version": "[7.0.0-rc.3-1, )"
+              "version": "[8.6.0, )"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"

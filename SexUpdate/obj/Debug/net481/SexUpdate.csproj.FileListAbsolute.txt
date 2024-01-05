@@ -9,7 +9,6 @@ C:\Users\tilau\RiderProjects\SexUpdate\SexUpdate\bin\Debug\net481\Exiled.CustomR
 C:\Users\tilau\RiderProjects\SexUpdate\SexUpdate\bin\Debug\net481\Exiled.Events.dll
 C:\Users\tilau\RiderProjects\SexUpdate\SexUpdate\bin\Debug\net481\Exiled.Loader.dll
 C:\Users\tilau\RiderProjects\SexUpdate\SexUpdate\bin\Debug\net481\Exiled.Permissions.dll
-C:\Users\tilau\RiderProjects\SexUpdate\SexUpdate\bin\Debug\net481\Exiled.Updater.dll
 C:\Users\tilau\RiderProjects\SexUpdate\SexUpdate\bin\Debug\net481\NorthwoodLib.dll
 C:\Users\tilau\RiderProjects\SexUpdate\SexUpdate\bin\Debug\net481\PluginAPI.dll
 C:\Users\tilau\RiderProjects\SexUpdate\SexUpdate\bin\Debug\net481\YamlDotNet.dll

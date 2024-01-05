@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETFramework,Version=v4.8.1": {
-      "EXILED/7.0.0-rc.3-1": {
+      "EXILED/8.6.0": {
         "type": "package",
         "compile": {
           "lib/net48/Assembly-CSharp-Publicized.dll": {},
@@ -26,9 +26,6 @@
             "related": ".xml"
           },
           "lib/net48/Exiled.Permissions.dll": {
-            "related": ".xml"
-          },
-          "lib/net48/Exiled.Updater.dll": {
             "related": ".xml"
           },
           "lib/net48/NorthwoodLib.dll": {},
@@ -59,9 +56,6 @@
           "lib/net48/Exiled.Permissions.dll": {
             "related": ".xml"
           },
-          "lib/net48/Exiled.Updater.dll": {
-            "related": ".xml"
-          },
           "lib/net48/NorthwoodLib.dll": {},
           "lib/net48/PluginAPI.dll": {},
           "lib/net48/YamlDotNet.dll": {}
@@ -70,14 +64,14 @@
     }
   },
   "libraries": {
-    "EXILED/7.0.0-rc.3-1": {
-      "sha512": "THpNhWNW3z/8SSLeNBaiEQPq3M4/X32SHVzSNnc6Rz4BKBUIVvosDmuUPz+sZZ0XDsHgrOEEOAFtqFFA1ocYiQ==",
+    "EXILED/8.6.0": {
+      "sha512": "I544oAIP362CcYwNo8bmD7QtSpwEiRhNnGjYk1d0Iqpxi3tjti8h9LGGROh9QYT0KWhkhUuUcNs4H08SRQpE0Q==",
       "type": "package",
-      "path": "exiled/7.0.0-rc.3-1",
+      "path": "exiled/8.6.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "exiled.7.0.0-rc.3-1.nupkg.sha512",
+        "exiled.8.6.0.nupkg.sha512",
         "exiled.nuspec",
         "images/Exiled_Icon.jpg",
         "lib/net48/Assembly-CSharp-Publicized.dll",
@@ -96,8 +90,6 @@
         "lib/net48/Exiled.Loader.xml",
         "lib/net48/Exiled.Permissions.dll",
         "lib/net48/Exiled.Permissions.xml",
-        "lib/net48/Exiled.Updater.dll",
-        "lib/net48/Exiled.Updater.xml",
         "lib/net48/NorthwoodLib.dll",
         "lib/net48/PluginAPI.dll",
         "lib/net48/YamlDotNet.dll"
@@ -106,7 +98,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.8.1": [
-      "EXILED >= 7.0.0-rc.3-1"
+      "EXILED >= 8.6.0"
     ]
   },
   "packageFolders": {
@@ -148,7 +140,7 @@
         "dependencies": {
           "EXILED": {
             "target": "Package",
-            "version": "[7.0.0-rc.3-1, )"
+            "version": "[8.6.0, )"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"

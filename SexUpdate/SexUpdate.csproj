@@ -6,7 +6,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="EXILED" Version="7.0.0-rc.3-1" />
+      <PackageReference Include="EXILED" Version="8.6.0" />
     </ItemGroup>
 
     <ItemGroup>
@@ -17,7 +17,7 @@
         <HintPath>..\..\..\SCP Secret Laboratory\Assembly\CommandSystem.Core.dll</HintPath>
       </Reference>
       <Reference Include="MapEditorReborn">
-        <HintPath>..\..\..\SCP Secret Laboratory\Assembly\MapEditorReborn.dll</HintPath>
+        <HintPath>..\..\..\AppData\Roaming\EXILED\Plugins\MapEditorReborn.dll</HintPath>
       </Reference>
       <Reference Include="Mirror">
         <HintPath>..\..\..\SCP Secret Laboratory\Assembly\Mirror.dll</HintPath>
